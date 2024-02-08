@@ -1,0 +1,6 @@
+Support created by niceguynate aka swimfreak
+
+- textures partially adapted from existing farmers delight support (also done by niceguynate)
+- Cheese model textures via Narwhal69 #29160-#29162
+- Beer mug textures #15953, 15954
+- Gui by SyndiShanX
